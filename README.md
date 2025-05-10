@@ -25,7 +25,7 @@ portfolio-website/
 
 🔗 My Portfolio
 
-[
+[https://manjushree8.github.io/Simple-Portfolio-Website/]
 
 🙌 Acknowledgments
 
